@@ -22,3 +22,9 @@ dist-ssr
 *.njsproj
 *.sln
 *.sw?
+backend/vendor/
+backend/.env
+backend/storage/*.key
+backend/public/storage
+backend/database/*.sqlite
+backend/database/*.sqlite-journal
